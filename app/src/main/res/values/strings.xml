@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestOne</string>
+    <string name="seeYourPlans">See Your Plans</string>
+    <string name="seeYourActivity">See Your Activity</string>
+    <string name="about">About</string>
+    <string name="drawer_close">close_drawer</string>
+    <string name="drawer_open">open_drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
